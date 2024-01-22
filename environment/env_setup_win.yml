@@ -1,0 +1,16 @@
+name: ML_Project
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - scikit-learn
+    - notebook
+    - pandas
+    - scipy
+    - ipywidgets
+    - jupyterlab
+    - pip
+#    - haversine
+    - ipympl
+    - ipywidgets
